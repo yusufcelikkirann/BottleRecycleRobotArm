@@ -1,3 +1,4 @@
 # BottleRecycleRobotArm
  BottleRecycleRobotArm With OpenCV
-https://github.com/yusufcelikkirann/BottleRecycleRobotArm/blob/main/FinalVideo.mp4
+ - It was written with our own codes without using any ready-made libraries.
+ - If you watch the working videos and delete them, let them know in the repo.
